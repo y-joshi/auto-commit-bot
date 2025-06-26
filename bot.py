@@ -10,7 +10,7 @@ weekday_name = today.strftime("%A")
 random.seed(week_number)  # Same days every time this week
 commit_days = random.sample(
     ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-    k=random.choice([2, 3])
+    k=random.choice([7])
 )
 
 # Step 3: Exit if today is not a commit day
