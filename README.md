@@ -1,2 +1,2 @@
 # auto-commit-bot
-Automatically commits on github any random day in a week for Lazy People
+Because remembering to commit is hard... Let a bot do it while you nap. Commits randomly 2–3 times a week so you look busy (even when you’re not)
